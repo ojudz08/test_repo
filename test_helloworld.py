@@ -3,4 +3,8 @@
    Author: Ojelle Rogero
    """
 
-print("Hello World!")
+def test_print(str):
+    text = str
+    return text
+
+print(test_print("Hello World!"))
