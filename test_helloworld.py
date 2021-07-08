@@ -3,8 +3,4 @@
    Author: Ojelle Rogero
    """
 
-def hello_world(str):
-    text = str
-    return text
-
-print(hello_world("Hello World!"))
+print("Hello World!")
