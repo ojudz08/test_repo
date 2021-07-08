@@ -3,7 +3,8 @@
    Author: Ojelle Rogero
    """
 
-print("Hello World!")
+def hello_world(str):
+    text = str
+    return text
 
-
-
+print(hello_world("Hello World!"))
