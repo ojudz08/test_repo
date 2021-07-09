@@ -1,5 +1,6 @@
 """Test Script for Learning Git Commands
    Created on July 8, 2021
+   Modified on July 9, 2021
    Author: Ojelle Rogero
    """
 
@@ -15,7 +16,6 @@ def mult(x, y):
 def div(x, y):
     return x / y
 
-   
 print("The sum of 10 + 15 is equal to ", add(10, 15))
 print("The difference of 10 - 15 is equal to ", sub(10, 15))
 print("The product of 10 x 15 is equal to ", mult(10, 15))
